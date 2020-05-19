@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "579766713835",
+    "firebase_url": "https://firestore-fetch-73fe2.firebaseio.com",
+    "project_id": "firestore-fetch-73fe2",
+    "storage_bucket": "firestore-fetch-73fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579766713835:android:c8291eadd8422452896dae",
+        "android_client_info": {
+          "package_name": "com.carldroid.firestorecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnB_ZUet4HhMzk79C0Uo8rOGHOa_CMuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579766713835:android:a8a777b84f2c3818896dae",
+        "android_client_info": {
+          "package_name": "com.carldroid.firestorefetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnB_ZUet4HhMzk79C0Uo8rOGHOa_CMuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579766713835:android:06dc330abfb6aa6d896dae",
+        "android_client_info": {
+          "package_name": "lexfy.hdstudios.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnB_ZUet4HhMzk79C0Uo8rOGHOa_CMuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579766713835:android:d735d79454a46623896dae",
+        "android_client_info": {
+          "package_name": "lexfy.hdstudios.thoughtsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnB_ZUet4HhMzk79C0Uo8rOGHOa_CMuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579766713835-lhahf3hfueh59ddu5berrr6hbendc63j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
